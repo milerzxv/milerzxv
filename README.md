@@ -7,7 +7,7 @@ I'm turning my ideas into reality through clean, responsive, and accessible UI/U
 
 ### Tech Stack
 - React.js
-- JavaScript / TypeScript
+- JavaScript / TypeScript / Lua
 - HTML5 / CSS3 / SCSS
 - Git / GitHub / VS Code
 
