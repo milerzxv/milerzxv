@@ -1,7 +1,7 @@
-# Hey there! Welcome to my GitHub profile
+# Hey! Welcome to my GitHub profile
 
-I'm a **Front-End Developer** with a passion for building beautiful and functional web interfaces using **React.js**  
-I'm turning ideas into reality through clean, responsive, and accessible UI/UX design
+I'm a **Front-End Developer** with a passion for building good-looking and functional web interfaces using **React.js**  
+I'm turning my ideas into reality through clean, responsive, and accessible UI/UX design
 
 ---
 
@@ -14,7 +14,7 @@ I'm turning ideas into reality through clean, responsive, and accessible UI/UX d
 ---
 
 ### Currently Learning
-Right now I'm into **Roblox development** — exploring Lua scripting and game creation on the Roblox platform :P.
+Right now I'm into **Roblox development** — exploring Lua scripting and game creation on the Roblox platform :P
 
 ---
 
